@@ -5,3 +5,13 @@ The IoT allows objects to be sensed or controlled remotely across existing netwo
 .
 ., which also encompasses technologies such as smart grids, virtual power plants, smart homes, intelligent transportation and smart cities.
 "Things", in the IoT sense, can refer to a wide variety of devices such as heart monitoring implants, biochip transponders on farm animals, cameras streaming live feeds of wild animals in coastal waters,[10] automobiles with built-in sensors, DNA analysis devices for environmental/food/pathogen monitoring,[11] or field operation devices that asssist firefighters in search and rescue operation.
+
+iot devices:
+1)RFid
+Description:
+"A radio-frequency identification system uses tags, or labels attached to the objects to be identified. Two-way radio transmitter-receivers called interrogators or readers send a signal to the tag and read its response. The readers generally transmit their observations to a computer system running RFID software or RFID middleware.RFID tags can be either passive, active or battery assisted passive. An active tag has an on-board battery and periodically transmits its ID signal. A battery assisted passive (BAP) has a small battery on board and is activated when in the presence of a RFID reader."
+- Overview video
+
+Frequency: 120–150 kHz (LF), 13.56 MHz (HF), 433 MHz (UHF), 865-868 MHz (Europe)902-928 MHz (North America) UHF, 2450-5800 MHz (microwave), 3.1–10 GHz (microwave)
+Range: 10cm to 200m
+Examples: Road tolls, Building Access, Inventory.
